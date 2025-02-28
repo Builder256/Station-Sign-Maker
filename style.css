@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+    margin: 16px;
+    font-size: 2.5em;
+}
+
+input[type="text"] {
+    padding: 0 4px;
+    margin: 0 4px;
+}
+
+button {
+    padding: 4px 8px;
+    margin: 4px;
+    cursor: pointer;
+}
